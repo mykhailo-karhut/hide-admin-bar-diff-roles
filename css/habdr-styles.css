@@ -1,0 +1,6 @@
+/* Custom styles plugin*/
+
+.tools_page_habdr-options-admin-bar .form-table th {
+    width: auto;
+    padding: 0;
+}
